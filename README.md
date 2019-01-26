@@ -4,4 +4,4 @@ Trainer: @Dragos Dehelean
 
 **Projects**:
 
-* [Aplicatie SlideShow]() 
+* [Aplicatie SlideShow]("https://horace373.github.io/JavaScript/index.html") 
